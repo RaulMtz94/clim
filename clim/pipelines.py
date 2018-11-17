@@ -15,7 +15,7 @@ class ClimPipeline(object):
 		return item
 
 	def close_spider(self, spider):
-		con = fdb.connect(dsn='C:/AppServer/SHARED.FDB', user='sysdba', password='auofdsbcs')
+		con = fdb.connect(dsn='C:/AppServer/SHARED.FDB', user='sysdba', password='masterkey')
 		cur = con.cursor()
 		insertStatement = cur.prep("update or insert into historicos (id_estacion, fecha, prec, tmax, tmin, tmed, vmax, vdir, vmed, dmed, rad, hum, eto, eva) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) matching (id_estacion,fecha)")
 		cur.executemany(insertStatement,self.sqls)
