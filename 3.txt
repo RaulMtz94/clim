@@ -1,0 +1,13 @@
+	<option value="26136">Cd. Constituci&#243;n</option>
+	<option value="36363">Col. Los Tulares</option>
+	<option value="42004">Ejido Diaz Ordaz</option>
+	<option value="42026">El Carrizal</option>
+	<option value="998445">GUERRERO NEGRO</option>
+	<option value="41922">Las Cuevas</option>
+	<option value="42029">Miraflores</option>
+	<option value="998415">PALO VERDE EJIDO SAN LUCAS</option>
+	<option value="36372">Pozo Pe&#241;a</option>
+	<option value="41996">Rancho la Joya</option>
+	<option value="41884">San Juan de Los Planes</option>
+	<option value="42025">Todos Santos</option>
+	<option value="42013">Valle de Mulege</option>

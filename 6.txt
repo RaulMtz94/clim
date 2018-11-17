@@ -1,0 +1,17 @@
+	<option value="30">Agua Zarca</option>
+	<option value="35003">Alpuyeque</option>
+	<option value="36754">Armeria</option>
+	<option value="35009">Buenavista</option>
+	<option value="35045">Carrizal</option>
+	<option value="38468">Cerro de Ortega</option>
+	<option value="38848">Coquimatlan</option>
+	<option value="35007">Ingenio Queser&#237;a</option>
+	<option value="36346">INIFAP - Colima</option>
+	<option value="29">Ixtlahuc&#225;n</option>
+	<option value="38231">La Caja</option>
+	<option value="35038">Las Higueras</option>
+	<option value="50108">Madrid</option>
+	<option value="40088">Montitlan</option>
+	<option value="860033">Rancho Mart&#237;nez</option>
+	<option value="36204">Tecoman</option>
+	<option value="36762">V. Carranza</option>

@@ -1,0 +1,14 @@
+	<option value="26359">Atotonilco</option>
+	<option value="26457">Benito Ju&#225;rez</option>
+	<option value="26363">Benito Ju&#225;rez Huamantla</option>
+	<option value="26366">Capulac</option>
+	<option value="26357">Concepci&#243;n Hidalgo</option>
+	<option value="26361">El Carmen</option>
+	<option value="26358">Ixtenco</option>
+	<option value="26459">La Magdalena Soltepec</option>
+	<option value="998416">Mu&#241;oz</option>
+	<option value="26458">Mu&#241;oz</option>
+	<option value="860172">Nexnopala</option>
+	<option value="35276">Papalotla</option>
+	<option value="26362">San Fco. Temezontla</option>
+	<option value="26462">San Jos&#233; Teacalco</option>
