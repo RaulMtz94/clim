@@ -22,8 +22,8 @@ class SpiderSpider(Spider):
 			idEstado = estado_file.replace('.txt', '')
 			for line in file:
 				idEstacion = line.split('"')[1]
-				for year in range (2018,date.today().year + 1):
-					for month in range (9,date.today().month + 1):
+				for year in range (2000,date.today().year + 1):
+					for month in range (1,date.today().month + 1):
 						self.start_urls.append(prefix.format(idEstado,idEstacion) + str(month) + "&Anio=" + str(year))
 
 	def start_requests(self):
